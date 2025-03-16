@@ -4,14 +4,14 @@ A simple, interactive web application where users can share interesting facts ca
 
 ## Setup & Installation
 1. Clone the repository
-```git clone https://github.com/your-username/today-i-learned.git
-cd today-i-learned```
+`git clone https://github.com/your-username/today-i-learned.git
+cd today-i-learned`
 
 2. Install dependencies
-```npm install```
+`npm install`
 
 4. Run the development server
-```npm run dev```
+   `npm run dev`
 
 5. Open the app
-```http://localhost:5173```
+   `http://localhost:5173`
