@@ -4,7 +4,7 @@ A simple, interactive web application where users can share interesting facts ca
 
 ## Setup & Installation
 1. Clone the repository
-`git clone https://github.com/your-username/today-i-learned.git
+`git clone https://github.com/giuvanna/today-i-learned.git
 cd today-i-learned`
 
 2. Install dependencies
